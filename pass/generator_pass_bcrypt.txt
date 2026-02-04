@@ -1,0 +1,1 @@
+php -r '$senha = "admin"; $hash = password_hash($senha, PASSWORD_BCRYPT); echo $hash . PHP_EOL;'
