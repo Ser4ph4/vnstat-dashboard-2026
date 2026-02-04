@@ -85,11 +85,10 @@ Adicione a linha:
 | `config.php`      | Gerenciamento de sessões e configurações de segurança global.       |
 | `logout.php`      | Encerramento seguro de sessão.                                      |
 
-##Screenshot:
+## Screenshot:
 ![Sumary Screen](https://cdn.jsdelivr.net/gh/ser4ph4/ser4ph4.github.io/images/Sumary.png)
 ![Sumary Screen](https://cdn.jsdelivr.net/gh/ser4ph4/ser4ph4.github.io/images/days.png)
 ![Sumary Screen](https://cdn.jsdelivr.net/gh/ser4ph4/ser4ph4.github.io/images/login.png)
-More: 
 
 ## 🔒 Detalhes de Segurança
 
