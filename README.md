@@ -1,4 +1,5 @@
 #☁️Modern dashboard for traffic statistics using VNSTAT
+![Logo VnStat Panel](https://cdn.jsdelivr.net/gh/ser4ph4/ser4ph4.github.io/images/logo_vnstat_panel.png)
 
 # 🚀 VnStat Dashboard Modern
 
