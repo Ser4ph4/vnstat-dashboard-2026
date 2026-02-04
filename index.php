@@ -16,15 +16,15 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
     <title>VnStat - Dashboard</title>
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="/libs/fontawesome/css/all.min.css">
+    <link rel="stylesheet" href="libs/fontawesome/css/all.min.css">
     <!-- Tailwind CSS -->
-    <script src="/libs/tailwind.min.js"></script>
+    <script src="libs/tailwind.min.js"></script>
     <!-- React e bibliotecas relacionadas -->
-    <script src="/libs/react.production.min.js"></script>
-    <script src="/libs/react-dom.production.min.js"></script>
-    <script src="/libs/babel.min.js"></script>
-    <script src="/libs/prop-types.min.js"></script>
-    <script src="/libs/Recharts.js"></script>
+    <script src="libs/react.production.min.js"></script>
+    <script src="libs/react-dom.production.min.js"></script>
+    <script src="libs/babel.min.js"></script>
+    <script src="libs/prop-types.min.js"></script>
+    <script src="libs/Recharts.js"></script>
     <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
 
