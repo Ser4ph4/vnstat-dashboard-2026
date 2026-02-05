@@ -350,10 +350,12 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
             <div className="glass-effect rounded-2xl p-6 mb-6 card-hover">
                 <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
                     <div>
-                        <h1 className="text-4xl font-bold text-white mb-2">
-                            <i className="fas fa-chart-line mr-3"></i>
-                            VnStat <span className="gradient-text">Tráfego</span>
-                        </h1>
+<a href="/" className="cursor-pointer hover:opacity-80 transition-opacity">
+    <h1 className="text-4xl font-bold text-white mb-2">
+        <i className="fas fa-chart-line mr-3"></i>
+        VnStat <span className="gradient-text">Tráfego•</span>
+    </h1>
+</a>
                         <div className="flex items-center gap-3 text-slate-400">
                             <div className="flex items-center gap-2">
                                 <div className="w-2 h-2 bg-green-500 rounded-full online-indicator"></div>
